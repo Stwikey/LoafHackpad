@@ -1,5 +1,7 @@
 #LoafPad#
+
 ###Cat + Loaf = LoafPad###
+
 <img width="412" alt="Screenshot 2025-06-13 at 10 17 38 AM" src="https://github.com/user-attachments/assets/b0d85ab5-eb84-45f2-ac71-b90dfc4444c8" />
 
 A simple macropad with 6 keys with KMK firmware in the shape of a cat loaf
