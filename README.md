@@ -30,6 +30,5 @@ It got paws
 - 4x M3x16mm Screws
 - 4x M3x5mx4mm heatset inserts
 
-- KMK Firmware
 - 3D Printed Case (TOP.stl, BOTTOM.stl)
 
