@@ -14,7 +14,7 @@ I finished making the schematic and pcb layout for my hackpad during the roadtri
 
 **Total time spent: 1h**
 
-# June 13h: Finished making case and firmware
+# June 13th: Finished making case and firmware
 
 I followed along the hackpad tutorial to make the case but decided to add my own design. Its supposed to be a cat loaf and I plan to paint it so it looks nicer and more like a bread. Using fusion was kind of hard because I never used it before so it took longer than expected lol.
 
