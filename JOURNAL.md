@@ -20,6 +20,6 @@ I followed along the hackpad tutorial to make the case but decided to add my own
 
 <img width="557" alt="Screenshot 2025-06-13 at 9 34 39 AM" src="https://github.com/user-attachments/assets/3ef5104d-ffea-4c16-91d5-5f1d8d6fad30" />
 
-I also followed along the tutorial for the firmware and just needed to add some more keymaps for the extra keys that I added. 
+I also followed along the tutorial for the firmware and just needed to add some more keymaps for the extra keys that I added. I want to test out the current code first but hope to make something more advanced.
 
 **Total time spent: 3h**
